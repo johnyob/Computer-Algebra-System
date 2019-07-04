@@ -1,5 +1,5 @@
 # Computer-Algebra-System
-## Simple CAS in Java
+> Simple CAS in Java
 
 README: TODO
 
